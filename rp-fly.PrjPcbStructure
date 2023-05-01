@@ -1,1 +1,8 @@
-Record=TopLevelDocument|FileName=mcu.SchDoc
+Record=TopLevelDocument|FileName=rp-fly.SchDoc
+Record=SheetSymbol|SourceDocument=rp-fly.SchDoc|Designator=#MCU|SchDesignator=#MCU|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=rp-fly.SchDoc|Designator=#PWR|SchDesignator=#PWR|FileName=pwr.SchDoc|SymbolType=Normal|RawFileName=pwr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=rp-fly.SchDoc|Designator=#USB|SchDesignator=#USB|FileName=typeC.SchDoc|SymbolType=Normal|RawFileName=typeC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=#3V3|SchDesignator=#3V3|FileName=3V3.SchDoc|SymbolType=Normal|RawFileName=3V3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=#5V0|SchDesignator=#5V0|FileName=5V0.SchDoc|SymbolType=Normal|RawFileName=5V0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=#INA|SchDesignator=#INA|FileName=INA.SchDoc|SymbolType=Normal|RawFileName=INA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=#LDO|SchDesignator=#LDO|FileName=LDO.SchDoc|SymbolType=Normal|RawFileName=LDO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
