@@ -1,2 +1,2 @@
 I2C=SDA,SCL
-INA-CTRL=1,2
+INA-CTRL=Warn,Crit
